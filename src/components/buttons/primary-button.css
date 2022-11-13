@@ -1,0 +1,12 @@
+.primary-button {
+    background-color: #01065B;
+    border: unset;
+    height: 50px;
+    width: 300px;
+    min-width: 100%;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    align-self: center;
+}
